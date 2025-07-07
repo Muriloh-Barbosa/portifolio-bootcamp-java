@@ -2,6 +2,7 @@
 
 ## ✅ Desafios deste módulo
 - ✅ Desafio Projeto - Criando um Ebook com ChatGPT & MidJourney
+- [Clique aqui para visualizar o PDF](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-01-intro-eng-prompt/projeto/Brincando-de-Programar-com-Java.pdf)
 
 ## 📖 Descrição
 Estudo introdutório sobre engenharia de prompts, com foco em elaborar entradas claras e eficazes.
