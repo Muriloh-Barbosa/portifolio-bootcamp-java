@@ -3,6 +3,7 @@
 ## ✅ Desafios deste módulo
 
 - ✅ Desafio-sintaxe.java
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-03-sintaxe-basica-java/desafio-codigo/desafio-sintaxe.java)
 ```
 Sua empresa exige que todos os funcionários utilizem e-mails corporativos com o domínio @company.com. O objetivo deste desafio é criar um programa que valide se o e-mail informado corresponde ao domínio correto. Caso o e-mail não tenha o domínio correto, o sistema deverá indicar que o domínio não é válido.
 
@@ -22,7 +23,7 @@ pedro.almeida@company.com	E-mail valido
 Atenção: É extremamente importante que as entradas e saídas sejam exatamente iguais às descritas na descrição do desafio de código.-
 ```
 - ✅ Desafio-01-sintaxe.java
-
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-03-sintaxe-basica-java/desafio-codigo/desafio-01-sintaxe.java)
 ```
 Você está criando um utilitário interno que ajuda a converter temperaturas de Celsius para Fahrenheit. No entanto, o sistema deve evitar falhas por entradas inválidas, como strings ou valores negativos em contextos indevidos.
 
