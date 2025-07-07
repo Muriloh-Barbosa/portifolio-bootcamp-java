@@ -1,6 +1,8 @@
 # 🚀 Repositório com desafios e projetos do bootcamp TONNIE - Java and AI in Europe
 
-Bem-vindo(a)! Este repositório reúne todos os desafios e projetos desenvolvidos durante o **Bootcamp Java**.  
+Bem-vindo(a)! 
+
+Este repositório reúne todos os desafios e projetos desenvolvidos durante o **Bootcamp Java**.  
 
 A estrutura está organizada por módulos, para facilitar a navegação e o acompanhamento de cada etapa concluída.
 
