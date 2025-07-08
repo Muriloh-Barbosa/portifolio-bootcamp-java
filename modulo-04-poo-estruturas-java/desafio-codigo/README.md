@@ -2,8 +2,8 @@
 
 ## ✅ Desafios deste módulo
 
-- ✅ Desafio-sintaxe.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-03-sintaxe-basica-java/desafio-codigo/desafio-sintaxe.java)
+- ✅ desafio-poo.java
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-04-poo-estruturas-java/desafio-codigo/desafio-poo.java)
 ```
 Desafio
 Em um processo seletivo, o RH precisa buscar rapidamente os candidatos que possuem uma determinada habilidade. Você deve criar um programa que filtre os candidatos cadastrados com base em uma palavra-chave da habilidade.
@@ -43,8 +43,8 @@ Ana
 Pedro-java,html,css	Nenhum candidato encontrado
 Atenção: É extremamente importante que as entradas e saídas sejam exatamente iguais às descritas na descrição do desafio de código.
 ```
-- ✅ Desafio-01-sintaxe.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-03-sintaxe-basica-java/desafio-codigo/desafio-01-sintaxe.java)
+- ✅ desafio-poo-01.java
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-04-poo-estruturas-java/desafio-codigo/desafio-poo-01.java)
 ```
 Desafio
 Um recrutador atribui uma pontuação técnica para cada candidato em um processo seletivo. Você deve criar um programa que classifica os candidatos da maior para a menor pontuação e exibe seus nomes nessa ordem.
