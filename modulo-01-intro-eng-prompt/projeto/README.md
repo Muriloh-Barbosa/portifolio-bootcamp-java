@@ -13,3 +13,15 @@ Estudo introdutório sobre engenharia de prompts, com foco em elaborar entradas 
 
 ## 💡 Observações
 - Inclui exemplos de prompts otimizados.
+
+
+
+## 👨‍💻 **Autor**
+Desenvolvido por **Murilo**
+
+✨ Transformar ideias em código. ✨
+
+
+
+## 🤝 **Contribuições**
+Sinta-se à vontade para abrir *issues* ou enviar *pull requests* para melhorias!
