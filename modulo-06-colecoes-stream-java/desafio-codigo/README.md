@@ -3,7 +3,7 @@
 ## ✅ Desafios deste módulo
 
 - ✅ desafio-stream.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-04-poo-estruturas-java/desafio-codigo/desafio-poo.java)
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-06-colecoes-stream-java/desafio-codigo/desafio-stream.java)
 ```
 Descrição
 Você deve criar um programa que recebe uma lista de horários de reuniões agendadas durante o dia, cada uma representada por uma string no formato "HH:mm". Seu programa deve identificar e listar os horários únicos, ordenados do mais cedo ao mais tarde, ignorando horários repetidos.
@@ -50,7 +50,7 @@ Total de horarios unicos: 3
 Atenção: É extremamente importante que as entradas e saídas sejam exatamente iguais à descritas na descrição do desafio de código.
 ```
 - ✅ desafio-stream-01.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-04-poo-estruturas-java/desafio-codigo/desafio-poo-01.java)
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-06-colecoes-stream-java/desafio-codigo/desafio-stream-01.java)
 ```
 Descrição
 Você deve criar um programa que receba uma lista de tarefas a serem feitas durante o dia. Cada tarefa possui um nome e uma prioridade (número inteiro). Ordene as tarefas pela prioridade crescente e imprima a lista organizada.
