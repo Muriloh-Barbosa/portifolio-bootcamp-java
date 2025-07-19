@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/migrations/V001_create_boards.sql
+  - include:
+      file: db/changelog/migrations/V002_create_columns.sql
+  - include:
+      file: db/changelog/migrations/V003_create_cards.sql
+  - include:
+      file: db/changelog/migrations/V004_create_blocks.sql
