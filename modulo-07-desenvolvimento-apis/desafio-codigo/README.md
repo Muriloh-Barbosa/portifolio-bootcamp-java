@@ -3,7 +3,7 @@
 ## ✅ Desafios deste módulo
 
 - ✅ desafio-stream.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-06-colecoes-stream-java/desafio-codigo/desafio-stream.java)
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-07-desenvolvimento-apis/desafio-codigo/desafio-api.java)
 ```
 Descrição
 Simule um endpoint que recebe uma lista de nomes e retorna a lista ordenada alfabeticamente, formatada como um array JSON simples.
@@ -25,7 +25,7 @@ Zeca Ana Ana	["Ana", "Ana", "Zeca"]
 Atenção: É extremamente importante que as entradas e saídas sejam exatamente iguais à descritas na descrição do desafio de código.
 ```
 - ✅ desafio-stream-01.java
-- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-06-colecoes-stream-java/desafio-codigo/desafio-stream-01.java)
+- [Clique aqui para ver o resultado do desafio](https://github.com/Muriloh-Barbosa/portifolio-bootcamp-java/blob/main/modulo-07-desenvolvimento-apis/desafio-codigo/desafio-api-01.java)
 ```
 Descrição
 Receba uma lista de strings representando endpoints acessados e retorne o endpoint mais acessado. Se houver empate, retorne o que apareceu primeiro na lista.
